@@ -1,0 +1,6 @@
+{
+  "name": "Kos SARALUYU",
+  "description": "Blueprint arsitektur informasi dan website interaktif Kos SARALUYU dilengkapi katalog kamar, interactive guide map, kalkulator biaya, dan modul booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
